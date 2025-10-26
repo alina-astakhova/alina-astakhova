@@ -27,7 +27,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
-  <img src="https://clickhouse.com/images/logo.svg" alt="ClickHouse" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/yandexcloud/3693F3" alt="Yandex Cloud" width="40" height="40"/>
 </p>
 
